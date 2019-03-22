@@ -1,0 +1,42 @@
+.container {
+  background-color: #eee;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.box {
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.small-box {
+  height: 50px;
+  width: 50px;
+}
+
+.text-one {
+  font-size: 24pt;
+}
+
+.text-two {
+  font-size: 24px;
+}
+
+.red {
+  background-color: #ffb3ba;
+  width: 75%;
+}
+
+.yellow {
+  background-color: #ffffba;
+  width: 50%;
+}
+
+.blue {
+  background-color: #bae1ff;
+  width:50vw;
+}
+
+.paragraph {
+  line-height:3em;
+}
